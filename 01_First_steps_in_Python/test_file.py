@@ -1,2 +1,3 @@
-dog_breeds = ['corgi', 'labrador', 'poodle', 'jack russell']
-print(dog_breeds)
+em_list = list()
+
+print(em_list)
