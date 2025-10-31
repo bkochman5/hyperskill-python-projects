@@ -1,6 +1,2 @@
-# please, don't modify this variable
-calculations = input().split()
-
-# complete the code
-
-print(calculations[-1])
+for i in range(1, 12, 3):
+    print(i)
