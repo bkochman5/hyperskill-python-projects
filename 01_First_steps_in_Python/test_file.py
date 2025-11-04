@@ -1,2 +1,6 @@
-for i in range(1, 12, 3):
-    print(i)
+num1 = int(input())
+
+if num1 % 2 == 0:
+    print(True)
+else:
+    print(False)
